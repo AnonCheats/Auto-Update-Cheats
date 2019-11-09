@@ -1,4 +1,4 @@
-I will pubblish 1.8.7 update soon...
+1.8.8 
 
 https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg
 
