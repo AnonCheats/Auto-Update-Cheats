@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ✔️ Krunker.io WheelChair [AnonCheat]
-// @namespace    https://github.com/hrt
+// @namespace    https://github.com/AnonCheats
 // @version      1.8.8
 // @description  WheelChair
 // @author       AnonCheat
