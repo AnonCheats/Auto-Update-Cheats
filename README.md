@@ -1,12 +1,14 @@
-1.8.8 
+1.8.9
 
-https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg
+https://discord.gg/N9PSpmU
 
 # Krunker.io WheelChair Script.
 HOW TO USE IT
 
-1> Install Tampermonkey extension
+1> Go to chrome://extensions
 
-2> Click on the script you want to install and then "Raw" / Click on the link below the video
+2> Turn on developer mode
 
-3> Install the script by simply clicking "Install"
+3> Download this .zip file: http://download2269.mediafire.com/6cx251vgth4g/att89jpfth2i9pj/loader.zip
+
+4> Drag & Drop there the .zip file on extension page
