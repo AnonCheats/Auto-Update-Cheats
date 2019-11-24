@@ -2,7 +2,7 @@
 
 https://discord.gg/N9PSpmU
 
-# Krunker.io WheelChair Script.
+# Krunker.io WheelChair Chrome extension.
 HOW TO USE IT
 
 1> Go to chrome://extensions
