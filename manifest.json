@@ -1,8 +1,8 @@
 {
-  "name": "♿",
+  "name": "[pAlpHyx] WheelChair",
   "version": "2.0.0",
   "manifest_version": 2,
-  "description": "https://github.com/hrt/wheelchair",
+  "description": "https://github.com/AnonCheats/WheelChair",
   "content_scripts": [
   	{"matches":["https://krunker.io/", "https://krunker.io/*game*"],"run_at": "document_start","js": ["chairloader.js"],"all_frames":true,"match_about_blank":true}]
 }
