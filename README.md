@@ -9,6 +9,6 @@ HOW TO USE IT
 
 2> Turn on developer mode
 
-3> Download this .zip file: http://download2269.mediafire.com/6cx251vgth4g/att89jpfth2i9pj/loader.zip
+3> Download this .zip file: https://download2263.mediafire.com/4hud1actfz1g/att89jpfth2i9pj/loader.zip
 
 4> Drag & Drop there the .zip file on extension page
