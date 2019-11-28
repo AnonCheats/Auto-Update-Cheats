@@ -10,7 +10,7 @@
 
 2> Turn on developer mode
 
-3> Download this .zip file: [loader.zip](https://download2263.mediafire.com/4hud1actfz1g/att89jpfth2i9pj/loader.zip)
+3> Download this .zip file: [loader.zip](https://download1594.mediafire.com/6ira20focbpg/rpog01jyjk7co1i/loader.zip)
 
 4> Unzip the file with password > [Discord](https://discord.gg/N9PSpmU)
 
