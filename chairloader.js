@@ -1,3 +1,5 @@
+// AnonCheat - pAlpHyx
+
 try {
 	(ttap)(hrt);
 } catch(e) {
