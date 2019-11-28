@@ -12,7 +12,7 @@
 
 3> Download this .zip file: [extension.zip](http://download2262.mediafire.com/bn6wnqcnpqvg/qh74phl0g9jc7b9/extension.zip)
 
-4> Unzip the file with password > [Discord](https://discord.gg/N9PSpmU)
+4> Unzip the file with password > `AnonPass2` > [Discord](https://discord.gg/N9PSpmU)
 
 5> Drag & Drop the folder in extension page
 
