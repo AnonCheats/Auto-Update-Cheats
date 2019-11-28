@@ -1,5 +1,7 @@
 // AnonCheat - pAlpHyx
 
+alert(Injected v ' + GM_info.script.version);
+
 try {
 	(ttap)(hrt);
 } catch(e) {
