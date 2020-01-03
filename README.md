@@ -3,16 +3,12 @@
 
 # Private Tampermonkey script
 ___
-#### Require: ⋅⋅* Tampermonkey
+#### Require: • Tampermonkey
 ___
 
 #### How to use this cheat?
 
-1> Open script.js
-
-2> Click on "RAW" and then "Install"
-
-3> Join [Discord](https://discord.gg/N9PSpmU)
+![#1](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 
 
