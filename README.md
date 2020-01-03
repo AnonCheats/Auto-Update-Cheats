@@ -4,16 +4,17 @@
 # Private Tampermonkey script
 ___
 #### Require: • Tampermonkey
-___
+
 
 #### How to use this cheat?
 
-![#1](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+! [#1] Open the `script.user.js` file
+! [#2] Click on `Raw` and then `Install`
+! [#3] Join Discord server for more... [Click here] (https://discord.gg/N9PSpmU)
 
+#### USE THIS CHEAT AT OWN RISK!
 
-
-
-
+___
 
 # Krunker.io Private WheelChair Chrome extension.
 
