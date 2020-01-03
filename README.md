@@ -8,9 +8,11 @@
 
 #### How to use this cheat?
 
+```diff
 ! [#1] Open the `script.user.js` file
 ! [#2] Click on `Raw` and then `Install`
 ! [#3] Join Discord server for more... [Click here] (https://discord.gg/N9PSpmU)
+```
 
 #### USE THIS CHEAT AT OWN RISK!
 
@@ -21,11 +23,13 @@ ___
 
 #### How to use this cheat?
 
+```diff
 ! [#1] Download the loader.zip file 
 ! [#2] Extract the zip 
 ! [#3] Navigate to chrome://extensions
 ! [#4] Enable developer (in the top right)
 ! [#5] Drag the downloaded file into the extensions page
+```
 
 #### USE THIS CHEAT AT OWN RISK!
 
