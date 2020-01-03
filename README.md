@@ -33,6 +33,18 @@ ___
 
 #### USE THIS CHEAT AT OWN RISK!
 
+___
+
+# Features
+
+[X] Esp - thx to (hrt)
+[X] Box esp
+[X] Better Sniper Recticle
+[X] Trace lines
+[X] Trigger Bot
+[X] Aim assist
+[X] Aim bot
+[X] BHop
 
 *for any problem https://discord.gg/N9PSpmU
 
