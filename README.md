@@ -2,7 +2,7 @@
 
 
 # Private Tampermonkey script
-___
+
 #### Require: • Tampermonkey
 
 
@@ -16,19 +16,18 @@ ___
 
 ___
 
-# Krunker.io Private WheelChair Chrome extension.
 
-## HOW TO USE IT
+# Krunker.io Private Chrome extension.
 
-1> Go to [chrome://extensions](chrome://extensions)
+#### How to use this cheat?
 
-2> Turn on developer mode
+! [#1] Download the loader.zip file 
+! [#2] Extract the zip 
+! [#3] Navigate to chrome://extensions
+! [#4] Enable developer (in the top right)
+! [#5] Drag the downloaded file into the extensions page
 
-3> Download this .zip file: [loader.zip](http://download2268.mediafire.com/vlbnw25vss1g/rpog01jyjk7co1i/loader.zip)
-
-4> Drag & Drop the archive in extension page. 
-
-5> Join [Discord](https://discord.gg/N9PSpmU)
+#### USE THIS CHEAT AT OWN RISK!
 
 
 *for any problem https://discord.gg/N9PSpmU
