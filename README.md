@@ -3,8 +3,10 @@
 
 # Private Tampermonkey script
 ___
-### Require Tampermonkey
+#### Require: +Tampermonkey
+___
 
+#### How to use this cheat?
 
 1> Open script.js
 
