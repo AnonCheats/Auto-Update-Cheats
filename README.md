@@ -2,7 +2,8 @@
 
 
 # Private Tampermonkey script
-## HOW TO USE IT
+___
+### Require Tampermonkey
 
 
 1> Open script.js
