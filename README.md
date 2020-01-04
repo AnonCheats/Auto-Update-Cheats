@@ -1,7 +1,7 @@
 1.9.2 Working on 1.9.3...
 
 
-# Private Tampermonkey script
+# Private Tampermonkey script [WORKING ON 1.9.3]
 
 #### Require:
 ##### • Tampermonkey
@@ -13,7 +13,7 @@
 ```diff
 ! [#1] Open the `script.user.js` file
 ! [#2] Click on `Raw` and then `Install`
-! [#3] Join Discord server for more... [Click here] (https://discord.gg/N9PSpmU)
+! [#3] Join Discord server for more... 
 ```
 
 #### USE THIS CHEAT AT OWN RISK!
@@ -21,7 +21,7 @@
 ___
 
 
-# Krunker.io Private Chrome extension.
+# Krunker.io Private Chrome extension. [NOT WORKING ON 1.9.3]
 
 #### Require: 
 ##### • Google Chrome
