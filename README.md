@@ -53,12 +53,12 @@ ___
 
 
 
-| GIHUB                                                                | ✅ |
-| ------:                                                              | --:|
+| GIHUB | ✅ |
+| --- | --- |
 | [YouTube](https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg?) | 🔴 |
-| [Discord](https://discord.gg/N9PSpmU                                 | 🔵 |
+| [Discord](https://discord.gg/N9PSpmU) | 🔵 |
 
-[DISCORD SERVER](https://discord.gg/N9PSpmU)
+
 
 
 ![AnonCheat](https://camo.githubusercontent.com/3d2f5f430bc8754f6f2371a66dcf6f22c76aebcb/68747470733a2f2f7974332e67677068742e636f6d2f612f4147462d6c375f446376744770344c6e2d426a7a3238495366764b7031374d782d30516b6e516d5670513d733930302d632d6b2d63307866666666666666662d6e6f2d726a2d6d6f)
