@@ -3,7 +3,8 @@
 
 # Private Tampermonkey script
 
-#### Require: • Tampermonkey
+#### Require:
+##### • Tampermonkey
 
 
 #### How to use this cheat?
@@ -20,6 +21,11 @@ ___
 
 
 # Krunker.io Private Chrome extension.
+
+#### Require: 
+##### • Google Chrome
+##### • WinRar
+
 
 #### How to use this cheat?
 
@@ -50,6 +56,8 @@ ___
 - [X] BHop
 
 ___
+
+# Social Pages | Contact
 
 | GIHUB | ✅ |
 | --- | --- |
