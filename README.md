@@ -11,7 +11,7 @@ ___
 # Private Tampermonkey script [WORKING ON 1.9.3]
 
 #### Require:
-###### • Tampermonkey
+###### • [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
 
 
@@ -32,7 +32,7 @@ ___
 
 #### Require: 
 ###### • Google Chrome
-###### • WinRar
+###### • [WinRar](https://www.rarlab.com/rar/winrar-x64-580.exe)
 
 
 
