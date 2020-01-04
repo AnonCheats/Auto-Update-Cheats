@@ -2,7 +2,7 @@
 
 # Scripts Table
 
-| Tampermonkey Script | Extension Cheat |
+| ✅ Tampermonkey Script | ⚙️ Extension Cheat |
 | --- | --- |
 | Work for 1.9.3 but bugged and laggy | Working to bypass the anticheat |
 
@@ -62,7 +62,7 @@ ___
 | **Proxy Spoof** | ❌ | ✅ |
 | **Better UI** | ❌ | ✅ |
 | **Sniper AimBot** | ✅ | ❌ |
-
+| ⚙️ *More Features Soon* |
 ___
 
 # Social Pages | Contact
