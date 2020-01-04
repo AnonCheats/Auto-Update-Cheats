@@ -1,4 +1,6 @@
-1.9.3 hack works only for tampermonkey, working for extension
+*1.9.3 hack works only for tampermonkey, working for extension*
+
+# Scripts Avaiable
 
 
 # Private Tampermonkey script [WORKING ON 1.9.3]
@@ -62,10 +64,9 @@ ___
 
 # Social Pages | Contact
 
-| GIHUB | 🌀 |
-| --- | --- |
-| [YouTube](https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg?) | 🔴 ✅ |
-| [Discord](https://discord.gg/N9PSpmU) | 🔵 ✅ |
+**GIHUB
+[YouTube](https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg?) 🔴 ✅
+[Discord](https://discord.gg/N9PSpmU) 🔵 ✅**
 
 
 
