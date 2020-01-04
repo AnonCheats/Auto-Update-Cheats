@@ -48,15 +48,15 @@ ___
 
 # Features
 
-| X | Tampermonkey | Extension |
+| . | Tampermonkey | Extension |
 | --- | --- | --- |
-| **AimBot** | Yes | Yes |
-| **WallHack** | Yes | Yes |
-| **Box ESP** | Yes | Yes |
-| **Anti-AniCheat** | No | Yes |
-| **Proxy Spoof** | No | Yes |
-| **Better UI** | No | Yes |
-| **Sniper AimBot** | Yes | No |
+| **AimBot** | ✅ | ✅ |
+| **WallHack** | ✅ | ✅ |
+| **Box ESP** | ✅ | ✅ |
+| **Anti-AniCheat** | ❌ | ✅ |
+| **Proxy Spoof** | ❌ | ✅ |
+| **Better UI** | ❌ | ✅ |
+| **Sniper AimBot** | ✅ | ❌ |
 
 ___
 
