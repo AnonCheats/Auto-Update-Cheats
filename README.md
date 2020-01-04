@@ -1,7 +1,10 @@
 *1.9.3 hack works only for tampermonkey, working for extension*
 
-# Scripts Avaiable
+# Scripts Table
 
+| Tampermonkey Script | Extension Cheat |
+| --- | --- |
+| Work for 1.9.3 but bugged and laggy | Working to bypass the anticheat |
 
 # Private Tampermonkey script [WORKING ON 1.9.3]
 
@@ -64,8 +67,7 @@ ___
 
 # Social Pages | Contact
 
-**GIHUB
-[YouTube](https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg?) 🔴 ✅
+**[YouTube](https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg?) 🔴 ✅
 [Discord](https://discord.gg/N9PSpmU) 🔵 ✅**
 
 
