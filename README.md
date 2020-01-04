@@ -1,4 +1,4 @@
-1.9.2 Working on 1.9.3...
+1.9.3 hack works only for tampermonkey, working for extension
 
 
 # Private Tampermonkey script [WORKING ON 1.9.3]
@@ -21,7 +21,7 @@
 ___
 
 
-# Krunker.io Private Chrome extension. [NOT WORKING ON 1.9.3]
+ Krunker.io Private Chrome extension. [NOT WORKING ON 1.9.3]
 
 #### Require: 
 ###### • Google Chrome
