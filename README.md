@@ -4,7 +4,7 @@
 
 | ✅ Tampermonkey Script | ⚙️ Extension Cheat |
 | --- | --- |
-| Work for 1.9.3 but bugged and laggy | Working to bypass the anticheat |
+| Work for 1.9.3 but in test | Working to bypass the anticheat |
 
 # Private Tampermonkey script [WORKING ON 1.9.3]
 
@@ -62,7 +62,9 @@ ___
 | **Proxy Spoof** | ❌ | ✅ |
 | **Better UI** | ❌ | ✅ |
 | **Sniper AimBot** | ✅ | ❌ |
-| ⚙️ *More Features Soon* |
+| **Auto BHop** | ✅ | ✅ |
+| **Auto Slide-BHop** | ✅ | ❌ |
+| ⚙️ *More Features Coming Soon* |
 ___
 
 # Social Pages | Contact
