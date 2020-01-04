@@ -62,10 +62,10 @@ ___
 
 # Social Pages | Contact
 
-| GIHUB | ✅ |
+| GIHUB | 🌀 |
 | --- | --- |
-| [YouTube](https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg?) | 🔴 |
-| [Discord](https://discord.gg/N9PSpmU) | 🔵 |
+| [YouTube](https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg?) | 🔴 ✅ |
+| [Discord](https://discord.gg/N9PSpmU) | 🔵 ✅ |
 
 
 
