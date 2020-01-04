@@ -4,7 +4,7 @@
 # Private Tampermonkey script [WORKING ON 1.9.3]
 
 #### Require:
-##### • Tampermonkey
+###### • Tampermonkey
 
 
 
@@ -24,8 +24,8 @@ ___
 # Krunker.io Private Chrome extension. [NOT WORKING ON 1.9.3]
 
 #### Require: 
-##### • Google Chrome
-##### • WinRar
+###### • Google Chrome
+###### • WinRar
 
 
 
