@@ -40,18 +40,16 @@ ___
 
 # Features
 
-[X] ESP - hrt
-[X] Box ESP
-[X] Better Sniper Recticle
-[X] Trace Lines
-[X] Trigger Bot
-[X] Aim Assist
-[X] Aim Bot
-[X] BHop
+- [X] ESP - hrt
+- [X] Box ESP
+- [X] Better Sniper Recticle
+- [X] Trace Lines
+- [X] Trigger Bot
+- [X] Aim Assist
+- [X] Aim Bot
+- [X] BHop
 
-*for any problem https://discord.gg/N9PSpmU
-
-
+___
 
 | GIHUB | ✅ |
 | --- | --- |
