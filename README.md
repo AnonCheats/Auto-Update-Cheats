@@ -6,6 +6,8 @@
 | --- | --- |
 | Work for 1.9.3 but in test | Working to bypass the anticheat |
 
+___
+
 # Private Tampermonkey script [WORKING ON 1.9.3]
 
 #### Require:
