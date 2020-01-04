@@ -21,7 +21,7 @@
 ___
 
 
- Krunker.io Private Chrome extension. [NOT WORKING ON 1.9.3]
+# Krunker.io Private Chrome extension. [NOT WORKING ON 1.9.3]
 
 #### Require: 
 ###### • Google Chrome
