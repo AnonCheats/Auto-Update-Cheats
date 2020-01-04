@@ -49,6 +49,7 @@ ___
 # Features
 
 | X | Tampermonkey | Extension |
+| --- | --- | --- |
 | **AimBot** | Yes | Yes |
 | **WallHack** | Yes | Yes |
 | **Box ESP** | Yes | Yes |
