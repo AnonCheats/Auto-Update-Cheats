@@ -50,7 +50,11 @@ ___
 
 
 
-
+| DISCORD.           | YOUTUBE        |
+| -------------:     |:-------------: |
+| /N9PSpmU           | 48 subscribers |
+| always updated     | laest 1.9.2    |
+| cheat in preview   | working 1.9.3  |
 
 
 
