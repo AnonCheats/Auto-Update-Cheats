@@ -48,14 +48,14 @@ ___
 
 # Features
 
-- [X] ESP - hrt
-- [X] Box ESP
-- [X] Better Sniper Recticle
-- [X] Trace Lines
-- [X] Trigger Bot
-- [X] Aim Assist
-- [X] Aim Bot
-- [X] BHop
+| X | Tampermonkey | Extension |
+| **AimBot** | Yes | Yes |
+| **WallHack** | Yes | Yes |
+| **Box ESP** | Yes | Yes |
+| **Anti-AniCheat** | No | Yes |
+| **Proxy Spoof** | No | Yes |
+| **Better UI** | No | Yes |
+| **Sniper AimBot** | Yes | No |
 
 ___
 
