@@ -18,7 +18,7 @@
 ```diff
 ! [#1] Open the `script.user.js` file
 ! [#2] Click on `Raw` and then `Install`
-! [#3] Join Discord server for more... 
+! [#3] Join Discord server for help, support an questions...
 ```
 
 #### USE THIS CHEAT AT OWN RISK!
@@ -42,7 +42,7 @@ ___
 ! [#3] Navigate to chrome://extensions
 ! [#4] Enable developer (in the top right)
 ! [#5] Drag the downloaded file into the extensions page
-! [#6] Join Discord server for more...
+! [#6] Join Discord server for help, support an questions...
 ``` 
 
 
@@ -69,8 +69,9 @@ ___
 
 # Social Pages | Contact
 
-**[YouTube](https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg?) 🔴 ✅
-[Discord](https://discord.gg/N9PSpmU) 🔵 ✅**
+**[YouTube](https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg?) 🔴 ⚙️
+
+**[Discord](https://discord.gg/N9PSpmU) 🔵 ✅**
 
 
 
