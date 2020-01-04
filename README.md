@@ -69,7 +69,7 @@ ___
 
 # Social Pages | Contact
 
-**[YouTube](https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg?) 🔴 ⚙️
+**[YouTube](https://www.youtube.com/channel/UCnnqMGII7LHvvn1LUiU55eg?) 🔴 ⚙️**
 
 **[Discord](https://discord.gg/N9PSpmU) 🔵 ✅**
 
