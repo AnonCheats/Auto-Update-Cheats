@@ -1,4 +1,4 @@
-*1.9.4 patched the cheat ;(*
+*1.9.4 patched the cheat ;(* read AnonCheats/important
 
 # Scripts Table
 
