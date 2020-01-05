@@ -21,6 +21,8 @@ ___
 + [#1] Open the `script.user.js` file
 + [#2] Click on `Raw` and then `Install`
 + [#3] Join Discord server for help, support an questions...
+
+by Skidlamer
 ```
 
 #### USE THIS CHEAT AT OWN RISK!
@@ -45,6 +47,8 @@ ___
 + [#4] Enable developer (in the top right)
 + [#5] Drag the downloaded file into the extensions page
 + [#6] Join Discord server for help, support an questions...
+
+by hrt
 ``` 
 
 
