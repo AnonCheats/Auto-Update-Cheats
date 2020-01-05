@@ -1,10 +1,10 @@
-*1.9.3 hack works only for tampermonkey, working for extension*
+*1.9.4 patched the cheat ;(*
 
 # Scripts Table
 
-| ✅ Tampermonkey Script | ⚙️ Extension Cheat |
+| ❌ Tampermonkey Script | ❌ Extension Cheat |
 | --- | --- |
-| Work for 1.9.3 but in test | Working to bypass the anticheat |
+| Not working | Working to bypass the anticheat |
 
 ___
 
