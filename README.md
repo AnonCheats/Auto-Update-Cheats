@@ -42,7 +42,7 @@ ___
 
 #### How to use this cheat?
 
-```diff
+```
 + [#1] Download the loader.zip file 
 + [#2] Extract the zip 
 + [#3] Navigate to chrome://extensions
@@ -51,8 +51,7 @@ ___
 + [#6] Join Discord server for help, support an questions...
 
 by hrt
-``` 
-
+```
 
 
 #### USE THIS CHEAT AT OWN RISK!
