@@ -1,4 +1,4 @@
-*1.9.4 patched the cheat ;(* 
+<a style="display: none;">*1.9.4 patched the cheat ;(* 
 
 read AnonCheats/important
 
@@ -83,4 +83,4 @@ ___
 
 
 
-![banner](https://img.youtube.com/vi/3QbfMnyRvpM/maxresdefault.jpg)
+![banner](https://img.youtube.com/vi/3QbfMnyRvpM/maxresdefault.jpg) </a>
