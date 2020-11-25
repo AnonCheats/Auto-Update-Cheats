@@ -1,4 +1,4 @@
-<a style="display: none;">*1.9.4 patched the cheat ;(* 
+<a style="visibility: hidden;">*1.9.4 patched the cheat ;(* 
 
 read AnonCheats/important
 
